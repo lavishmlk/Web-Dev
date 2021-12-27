@@ -3,9 +3,6 @@
 const a = [1,2,3,4,5];
 console.log(a);
 
-a.pop();
-console.log(a)
-
 // How and why is this allowed?
 a.shift();
 console.log(a);
